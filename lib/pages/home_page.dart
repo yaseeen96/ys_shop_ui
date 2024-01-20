@@ -1,10 +1,10 @@
-import 'package:e_commerce_app/styles/styles.dart';
-import 'package:e_commerce_app/widgets/home/categories_widget.dart';
-import 'package:e_commerce_app/widgets/home/heading_widget.dart';
-import 'package:e_commerce_app/widgets/home/home_app_bar.dart';
-import 'package:e_commerce_app/widgets/home/home_bottom_nav_bar.dart';
-import 'package:e_commerce_app/widgets/home/search_widget.dart';
-import 'package:e_commerce_app/widgets/items/items_widget.dart';
+import 'package:THE_YS_SHOP/styles/styles.dart';
+import 'package:THE_YS_SHOP/widgets/home/categories_widget.dart';
+import 'package:THE_YS_SHOP/widgets/home/heading_widget.dart';
+import 'package:THE_YS_SHOP/widgets/home/home_app_bar.dart';
+import 'package:THE_YS_SHOP/widgets/home/home_bottom_nav_bar.dart';
+import 'package:THE_YS_SHOP/widgets/home/search_widget.dart';
+import 'package:THE_YS_SHOP/widgets/items/items_widget.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {

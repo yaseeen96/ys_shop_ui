@@ -1,3 +1,3 @@
-# e_commerce_app
+# THE YS SHOP
 
 A new Flutter project.

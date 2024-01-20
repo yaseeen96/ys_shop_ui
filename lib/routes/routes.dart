@@ -1,6 +1,6 @@
-import 'package:e_commerce_app/pages/cart_page.dart';
-import 'package:e_commerce_app/pages/home_page.dart';
-import 'package:e_commerce_app/pages/item_page.dart';
+import 'package:THE_YS_SHOP/pages/cart_page.dart';
+import 'package:THE_YS_SHOP/pages/home_page.dart';
+import 'package:THE_YS_SHOP/pages/item_page.dart';
 import 'package:flutter/material.dart';
 
 final routes = {

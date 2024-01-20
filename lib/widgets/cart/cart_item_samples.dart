@@ -1,4 +1,4 @@
-import 'package:e_commerce_app/widgets/shared/product_quantity.dart';
+import 'package:THE_YS_SHOP/widgets/shared/product_quantity.dart';
 import 'package:flutter/material.dart';
 
 class CartItemSamples extends StatelessWidget {

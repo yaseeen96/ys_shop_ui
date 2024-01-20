@@ -1,12 +1,12 @@
 import 'package:clippy_flutter/arc.dart';
-import 'package:e_commerce_app/widgets/items/item_appbar.dart';
-import 'package:e_commerce_app/widgets/items/item_bottom_navbar.dart';
-import 'package:e_commerce_app/widgets/items/product_image.dart';
-import 'package:e_commerce_app/widgets/product/product_description.dart';
-import 'package:e_commerce_app/widgets/product/product_metrics.dart';
-import 'package:e_commerce_app/widgets/shared/product_quantity.dart';
-import 'package:e_commerce_app/widgets/product/product_rating.dart';
-import 'package:e_commerce_app/widgets/product/product_title.dart';
+import 'package:THE_YS_SHOP/widgets/items/item_appbar.dart';
+import 'package:THE_YS_SHOP/widgets/items/item_bottom_navbar.dart';
+import 'package:THE_YS_SHOP/widgets/items/product_image.dart';
+import 'package:THE_YS_SHOP/widgets/product/product_description.dart';
+import 'package:THE_YS_SHOP/widgets/product/product_metrics.dart';
+import 'package:THE_YS_SHOP/widgets/shared/product_quantity.dart';
+import 'package:THE_YS_SHOP/widgets/product/product_rating.dart';
+import 'package:THE_YS_SHOP/widgets/product/product_title.dart';
 import 'package:flutter/material.dart';
 
 class ItemPage extends StatelessWidget {
